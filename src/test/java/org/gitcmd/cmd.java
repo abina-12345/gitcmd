@@ -11,6 +11,9 @@ public class cmd {
 		int c=a+b;
 		
 		System.out.println(c);
+		
+		int d=c*b;
+		System.out.println(d);
 				
 
 	}
